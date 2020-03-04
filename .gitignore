@@ -12,3 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
+/apps/src/debug/res/values/google_maps_api.xml
